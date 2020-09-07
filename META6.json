@@ -15,7 +15,7 @@
     "source": "https://github.com/kawaii/raku-acme-owo.git"
   },
   "license": "BSD-3-Clause",
-  "source-url": "git://git@github.com/kawaii/raku-acme-owo.git",
+  "source-url": "git://github.com/kawaii/raku-acme-owo.git",
   "repo-type": "git",
   "source-type": "git"
 }
