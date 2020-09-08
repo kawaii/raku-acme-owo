@@ -62,7 +62,7 @@ my constant %substitutions =
 ;
 
 method !add-affixes($str) {
-    my $result = @prefixes.pick ~ $str ~ @suffixes.pick;
+    @prefixes.pick ~ $str ~ @suffixes.pick;
 }
 
 method !substitute($str is copy) {
